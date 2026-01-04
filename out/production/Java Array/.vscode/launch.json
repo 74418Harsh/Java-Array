@@ -1,0 +1,112 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "Java Array_d7ce0dc9"
+        },
+        {
+            "type": "java",
+            "name": "UnionOf2SortedArrays",
+            "request": "launch",
+            "mainClass": "UnionOf2SortedArrays",
+            "projectName": "Java Array_d7ce0dc9"
+        },
+        {
+            "type": "java",
+            "name": "UnionOf2SortedArrayUsingBruteForce",
+            "request": "launch",
+            "mainClass": "UnionOf2SortedArrayUsingBruteForce",
+            "projectName": "Java Array_d7ce0dc9"
+        },
+        {
+            "type": "java",
+            "name": "LeftRotateArrayByDPlacesBruteForceApproach",
+            "request": "launch",
+            "mainClass": "LeftRotateArrayByDPlacesBruteForceApproach",
+            "projectName": "Java Array_d7ce0dc9"
+        },
+        {
+            "type": "java",
+            "name": "ReverseArray",
+            "request": "launch",
+            "mainClass": "ReverseArray",
+            "projectName": "Java Array_d7ce0dc9"
+        },
+        {
+            "type": "java",
+            "name": "LinearSearch",
+            "request": "launch",
+            "mainClass": "LinearSearch",
+            "projectName": "Java Array_d7ce0dc9"
+        },
+        {
+            "type": "java",
+            "name": "MoveZeroesToEndOfAnArrayOptimalSolution",
+            "request": "launch",
+            "mainClass": "MoveZeroesToEndOfAnArrayOptimalSolution",
+            "projectName": "Java Array_d7ce0dc9"
+        },
+        {
+            "type": "java",
+            "name": "MoveZeroesToEndOfAnArrayBruteForce",
+            "request": "launch",
+            "mainClass": "MoveZeroesToEndOfAnArrayBruteForce",
+            "projectName": "Java Array_d7ce0dc9"
+        },
+        {
+            "type": "java",
+            "name": "RotataeArrayByKPlaces",
+            "request": "launch",
+            "mainClass": "RotataeArrayByKPlaces",
+            "projectName": "Java Array_d7ce0dc9"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ChecnkSortedArrayOrNot",
+            "request": "launch",
+            "mainClass": "ChecnkSortedArrayOrNot",
+            "projectName": "Java Array_d7ce0dc9"
+        },
+        {
+            "type": "java",
+            "name": "LargestElement",
+            "request": "launch",
+            "mainClass": "LargestElement",
+            "projectName": "Java Array_d7ce0dc9"
+        },
+        {
+            "type": "java",
+            "name": "RemoveDuplicateFromSortedArrayUsingOptimal",
+            "request": "launch",
+            "mainClass": "RemoveDuplicateFromSortedArrayUsingOptimal",
+            "projectName": "Java Array_d7ce0dc9"
+        },
+        {
+            "type": "java",
+            "name": "RemoveDuplicatesFromSortedArrayUsingBruteForce",
+            "request": "launch",
+            "mainClass": "RemoveDuplicatesFromSortedArrayUsingBruteForce",
+            "projectName": "Java Array_d7ce0dc9"
+        },
+        {
+            "type": "java",
+            "name": "SecondLargestElement",
+            "request": "launch",
+            "mainClass": "SecondLargestElement",
+            "projectName": "Java Array_d7ce0dc9"
+        }
+    ]
+}

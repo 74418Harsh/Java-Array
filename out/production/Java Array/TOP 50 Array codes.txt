@@ -1,0 +1,115 @@
+🔹 Basic Level
+
+Find the largest element in an array
+
+Find the smallest element in an array
+
+Reverse an array
+
+Find the sum of all elements in an array
+
+Find the average of array elements
+
+Count even and odd numbers in an array
+
+Count positive and negative numbers in an array
+
+Search an element in an array (linear search)
+
+Find index of a given element
+
+Copy one array to another
+
+============================================================================================================================================================================================
+
+🔹 Intermediate Level
+
+Find the second largest element
+
+Find the second smallest element
+
+Sort array in ascending order
+
+Sort array in descending order
+
+Remove duplicate elements from an array
+
+Print array in reverse order (without modifying original)
+
+Count frequency of each element
+
+Merge two arrays
+
+Separate even and odd numbers
+
+Move all zeroes to the end
+
+============================================================================================================================================================================================
+
+🔹 Logic & Pattern Based
+
+Left rotate array by 1 position
+
+Right rotate array by 1 position
+
+Left rotate array by d positions
+
+Right rotate array by d positions
+
+Find missing number in a sequence (1 to n)
+
+Find duplicate element in an array
+
+Find the element that appears only once
+
+Find common elements in two arrays
+
+Find intersection of two arrays
+
+Find union of two arrays
+
+
+============================================================================================================================================================================================
+🔹 Computation-Based
+
+Find maximum sum of subarray (Kadane’s algorithm)
+
+Find minimum sum of subarray
+
+Find pair with given sum
+
+Count pairs with given sum
+
+Find triplet with given sum
+
+Find equilibrium index (sum of left = sum of right)
+
+Find subarray with given sum
+
+Find difference between max and min elements
+
+Replace every element with the next greatest element
+
+Check if array is sorted
+
+🔹 Advanced/Logical
+
+Rearrange array in alternating positive and negative
+
+Find leaders in array (greater than all right elements)
+
+Find maximum product subarray
+
+Count number of subarrays with sum 0
+
+Find majority element (appears more than n/2 times)
+
+Find the length of longest consecutive subsequence
+
+Find peak element (greater than neighbors)
+
+Rearrange array in max-min order
+
+Sort array of 0s, 1s, and 2s (Dutch National Flag)
+
+Find smallest subarray with sum greater than given value
